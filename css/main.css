@@ -5,6 +5,31 @@
     padding: 0;
     margin: 0;
 }
+.block-4 {
+    background-color: #f8f7f7;
+    padding: 20px 280px;
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+.block-4 h2, p {
+    margin-bottom: 10px;
+}
+.block-4 p:nth-child(4) {
+    margin-bottom: 0;
+}
+.director-name {
+    font-weight: bold;
+}
+p.button-3 {
+    text-align: center;
+}
+.button-3 button {
+    background-color: #00afe5;
+    color: white;
+    padding: 3px 15px;
+}
 footer {
     background-color: #e6e7e8;
     padding: 15px 70px;
